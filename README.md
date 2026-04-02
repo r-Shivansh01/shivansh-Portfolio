@@ -1,5 +1,3 @@
-![alt text](https://github.com/mo-hassann/my-portfolio/blob/master/public/projects-imgs/portfolio.png)
-
 # Developer Portfolio
 
 A modern and responsive developer portfolio which looks like code editor built using Next.js and Framer Motion. This portfolio showcases projects, skills, and contact information, with smooth animations and transitions for an engaging user experience.
