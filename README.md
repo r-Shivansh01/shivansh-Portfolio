@@ -12,9 +12,9 @@ A modern and responsive developer portfolio which looks like code editor built u
 
 ## 🛠️ Tech Stack
 
-- **Next.js**: A React framework for building server-rendered or statically exported React applications with ease.
-- **Framer Motion**: A production-ready motion library for React, allowing you to create complex animations easily.
-- **Tailwind CSS**: A utility-first CSS framework for building custom designs without leaving your HTML.
+- **Next.js**:  A React framework for building server-rendered or statically exported React applications with ease.
+- **Framer Motion**:  A production-ready motion library for React, allowing you to create complex animations easily.
+- **Tailwind CSS**:  A utility-first CSS framework for building custom designs without leaving your HTML.
 
 ## 📦 Getting Started
 
