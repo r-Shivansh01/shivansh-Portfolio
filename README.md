@@ -62,7 +62,7 @@ To get a local copy of this project up and running, follow these steps.
     yarn dev
     ```
 
-    Open [http://localhost:3000](http://localhost:3000) to view the portfolio in your browser.
+    Open [http://localhost:3000](http://localhost:3000) to view the portfolio in your browser...
 
 ## 📖 Usage
 
